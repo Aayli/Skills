@@ -1,0 +1,14 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING in tb_hdmi.vp_i.bin.LUT_Cr.inst at time                    0 ns: 
+Reading from out-of-range address. Max address in tb_hdmi.vp_i.bin.LUT_Cr.inst is         255
+WARNING in tb_hdmi.vp_i.bin.LUT_Cb.inst at time                    0 ns: 
+Reading from out-of-range address. Max address in tb_hdmi.vp_i.bin.LUT_Cb.inst is         255
+WARNING in tb_hdmi.vp_i.bin.LUT_Cb.inst at time                18000 ns: 
+Reading from out-of-range address. Max address in tb_hdmi.vp_i.bin.LUT_Cb.inst is         255
+WARNING in tb_hdmi.vp_i.bin.LUT_Cr.inst at time                18000 ns: 
+Reading from out-of-range address. Max address in tb_hdmi.vp_i.bin.LUT_Cr.inst is         255
+out  0.ppm saved
+out  1.ppm saved

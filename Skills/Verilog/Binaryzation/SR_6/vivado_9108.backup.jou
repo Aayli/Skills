@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Apr 18 23:19:40 2021
+# Process ID: 9108
+# Current directory: C:/Users/Aayli/Desktop/SR_6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8240 C:\Users\Aayli\Desktop\SR_6\SR_6.xpr
+# Log file: C:/Users/Aayli/Desktop/SR_6/vivado.log
+# Journal file: C:/Users/Aayli/Desktop/SR_6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Aayli/Desktop/SR_6/SR_6.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_hdmi.tcl
+update_compile_order -fileset sources_1
+run 10 us
+run 10 us
+close_sim
+launch_simulation
+source tb_hdmi.tcl
+run 10 us
+run 10 us
+update_compile_order -fileset sources_1
+close_sim

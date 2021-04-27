@@ -1,0 +1,1 @@
+add_16x16.vhd,vhdl,xil_defaultlib,../../../../SR_6.srcs/sources_1/ip/add_16x16/sim/add_16x16.vhd,

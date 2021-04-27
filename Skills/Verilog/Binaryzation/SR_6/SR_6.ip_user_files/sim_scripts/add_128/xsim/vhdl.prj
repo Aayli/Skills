@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../SR_6.srcs/sources_1/ip/add_128/sim/add_128.vhd" \
+
+nosort
