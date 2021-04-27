@@ -1,0 +1,19 @@
+Anaconda Prompt
+
+Creating environment: 
+
+conda -V
+conda env list
+conda create -n test python=3.7.4 numpy=1.16.4 matplotlib=3.1.0
+conda activate test
+conda deactivate
+conda enc remove -n test
+
+Open project:
+
+Go to right file direction 
+(cd ...\kalman-filter-course-assignments-master)
+Run file in python
+(python assigment.py)
+
+
